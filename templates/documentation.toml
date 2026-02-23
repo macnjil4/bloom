@@ -1,0 +1,4 @@
+trigram = "doc"
+name = "documentation"
+description = "Documentation technique ou fonctionnelle"
+default_concentration = "deep"

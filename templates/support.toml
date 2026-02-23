@@ -1,0 +1,4 @@
+trigram = "sup"
+name = "support"
+description = "Support utilisateur"
+default_concentration = "light"

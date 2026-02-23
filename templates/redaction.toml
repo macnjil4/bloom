@@ -1,0 +1,4 @@
+trigram = "red"
+name = "redaction"
+description = "Rédaction de contenu"
+default_concentration = "deep"

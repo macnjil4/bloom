@@ -1,0 +1,4 @@
+name = "bloom"
+lead = "dred"
+members = ["dred"]
+git_remote = "https://github.com/macnjil4/bloom.git"

@@ -1,0 +1,4 @@
+trigram = "vei"
+name = "veille"
+description = "Veille technologique / recherche"
+default_concentration = "light"

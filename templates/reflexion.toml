@@ -1,0 +1,4 @@
+trigram = "ref"
+name = "reflexion"
+description = "Réflexion, brainstorming"
+default_concentration = "creative"
