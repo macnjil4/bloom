@@ -2,7 +2,8 @@
 id: C-D001
 title: veille projet
 team: bloom
-status: new
+status: set
+assigned: dred
 category: veille
 concentration: light
 deadline: 2026-03-25
