@@ -2,7 +2,8 @@
 id: C-D002
 title: documentation du projet special
 team: bloom
-status: new
+status: set
+assigned: dred
 category: documentation
 concentration: deep
 deadline: 2026-03-25
