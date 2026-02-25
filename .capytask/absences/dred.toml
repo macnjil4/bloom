@@ -1,7 +1,7 @@
 [[absence]]
 id = "dred-vacation-20260225"
 user_id = "dred"
-kind = "training"
-start_date = "2026-06-25"
-end_date = "2026-06-25"
+kind = "vacation"
+start_date = "2026-02-25"
+end_date = "2026-02-26"
 recurring_yearly = false
