@@ -1,0 +1,7 @@
+[[absence]]
+id = "dred-vacation-20260225"
+user_id = "dred"
+kind = "vacation"
+start_date = "2026-02-26"
+end_date = "2026-02-26"
+recurring_yearly = false
